@@ -1,0 +1,50 @@
+body{
+    background-color: #092654;
+    color: white;
+    font-size: 25px;
+}
+main{
+    float: left;
+    width: 45%;
+
+}
+
+#lineaVertical{
+    border-left: 6px solid white;
+    height: 500px;
+    float: left;
+    padding: 15px;
+}
+
+aside{
+    float: right;
+    width: 45%;
+    padding-left: 10px;
+    
+}
+
+aside button{
+    margin: 15px;
+    background-color: #092654;
+    color: white;
+    border: 1px solid white;
+    padding: 5px;
+    font-size: 20px;
+    cursor: pointer;
+    width: 220px;
+}
+aside a{
+    padding: 5px;
+    margin: 10px;
+    text-decoration: underline;
+    cursor: pointer;
+}
+button:hover{
+    background-color: #576a8a;
+}
+a:visited{
+    color: white;
+}
+footer{
+    clear: both;
+}
