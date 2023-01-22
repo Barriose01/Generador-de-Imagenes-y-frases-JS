@@ -25,26 +25,25 @@ De igual manera, si se vuelve a hacer click en ese boton, podra aparecer un chis
 
 Al hacer click en el boton de "Mostrar frases", aparecera una de diez frases junto con su autor. Estas frases fueron seleccionadas en internet:
 
-![image](https://user-images.githubusercontent.com/107152796/213923983-dbbb08c9-90ec-43dd-b7bb-e47fcd6e0022.png)
+![image](https://user-images.githubusercontent.com/107152796/213924664-ce6cc7ff-a0d1-4f71-b2aa-9590a61394c3.png)
 
 Si se vuelve a hacer click en el boton, aparecera otra frase con otro autor:
 
-![image](https://user-images.githubusercontent.com/107152796/213924003-1b88cdaa-591e-453b-917f-2ac6a178c691.png)
+![image](https://user-images.githubusercontent.com/107152796/213924685-76e2f726-5feb-4461-8dbb-d2678dde6e59.png)
 
 Finalmente, al hacer click en el boton "Mostrar acertijos", aparecera uno de diez acertijos seleccionados de internet en la seccion correspondiente de la pagina:
 
-![image](https://user-images.githubusercontent.com/107152796/213924040-11935232-0757-470b-88bd-ffbff343a533.png)
+![image](https://user-images.githubusercontent.com/107152796/213924699-7fa0b810-bf86-4482-90ee-0572609adb34.png)
 
 Solamente aparecera el acertijo sin la respuesta. Si se quiere ver la respuesta al acertijo, hay que hacer click en el texto que dice "Respuesta del acertijo":
 
-![image](https://user-images.githubusercontent.com/107152796/213924093-742076f1-c943-42ae-a6bb-819862364875.png)
+![image](https://user-images.githubusercontent.com/107152796/213924709-174caf23-a2fa-41e4-8cfe-0080222019ef.png)
 
 Si se hace click nuevamente en el boton "Mostrar acertijos", aparecera otro acertijo:
 
-![image](https://user-images.githubusercontent.com/107152796/213924121-2f8984ad-d251-476e-ac63-6ae745338407.png)
+![image](https://user-images.githubusercontent.com/107152796/213924719-a9a882c2-8849-47c2-b05d-7d5a91bcb133.png)
 
 Y si se hace click en el texto de "Respuesta del acertijo", se dara la respuesta a ese acertijo en particular:
 
-![image](https://user-images.githubusercontent.com/107152796/213924145-7cca9996-9e7e-4840-8828-708c69d95a4c.png)
-
+![image](https://user-images.githubusercontent.com/107152796/213924735-ca8ad8c7-64b4-4781-a8b4-b18320755076.png)
 
