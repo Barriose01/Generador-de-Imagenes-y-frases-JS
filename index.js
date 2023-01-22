@@ -135,6 +135,7 @@ function generarFraseAleatoria(){
 function mostrarFrase(){
     verificarBloques();
     let frase = document.createElement("p");
+    frase.classList.add("parrafo");
     //Esta funcion devolvera un objeto
     let objetoFrase = generarFraseAleatoria();
     //Se obtienen los valores del objeto. Nos dara el valor de la frase y el valor del autor
@@ -171,6 +172,7 @@ function generarAcertijo(){
 function mostrarAcertijo(){
     verificarBloques();
     let acertijo = document.createElement("p");
+    acertijo.classList.add("parrafo");
     let objetoAcertijoYRespuesta = generarAcertijo();
     let acertijoCompleto = Object.values(objetoAcertijoYRespuesta);
     //Solamente se muestra la frase
@@ -190,6 +192,7 @@ function mostrarRespuestaAcertijo(){
 
             //Si es asi, entonces se agrega el nuevo elemento con la respuesta
            let elementoRespuesta = document.createElement("p");
+           elementoRespuesta.classList.add("parrafo");
             elementoRespuesta.textContent = "-" + respuestaAcertijo;
             bloqueAcertijos.append(elementoRespuesta);
         }
