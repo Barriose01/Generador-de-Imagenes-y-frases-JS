@@ -84,6 +84,7 @@ function mostrarImagen(){
     //Se le dan atribytos
     imagen.src = generarImagenAleatoria();
     imagen.height = "350";
+    imagen.width = "400";
     imagen.alt = "Imagen aleatoria";
     //Se agrega la imagen al bloque
     bloqueImagenes.appendChild(imagen);
