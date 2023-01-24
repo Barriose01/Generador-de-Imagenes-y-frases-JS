@@ -108,6 +108,7 @@ return chisteAleatorio;
 function mostrarChiste(){
     verificarBloques();
     let chiste = document.createElement("p");
+    chiste.classList.add("parrafo");
     chiste.innerHTML = generarChisteAleatorio();
     bloqueChistes.appendChild(chiste);
 }
