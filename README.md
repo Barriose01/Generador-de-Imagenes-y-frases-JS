@@ -17,33 +17,33 @@ Si se vuelve a presionar, podra aparecer otra imagen:
 
 Al hacer click en el botno de "Mostrar chistes", aparecera uno de diez chistes seleccionados de internet en la seccion correspondiente en la pagina:
 
-![image](https://user-images.githubusercontent.com/107152796/213923919-c519ba9c-bb0f-4903-9e1d-7a7bec69ac6e.png)
+![image](https://user-images.githubusercontent.com/107152796/214330289-087aebca-2686-4d19-ae46-d61867bf6e83.png)
 
 De igual manera, si se vuelve a hacer click en ese boton, podra aparecer un chiste distinto:
 
-![image](https://user-images.githubusercontent.com/107152796/213923953-c96f78de-8373-4149-b03c-86ce2379145a.png)
+![image](https://user-images.githubusercontent.com/107152796/214330368-8555a27c-7f7b-4b17-903b-6b87983d7d37.png)
 
 Al hacer click en el boton de "Mostrar frases", aparecera una de diez frases junto con su autor. Estas frases fueron seleccionadas en internet:
 
-![image](https://user-images.githubusercontent.com/107152796/213924664-ce6cc7ff-a0d1-4f71-b2aa-9590a61394c3.png)
+![image](https://user-images.githubusercontent.com/107152796/214330425-a82e36c3-2846-479f-8a29-256ce220cf16.png)
 
 Si se vuelve a hacer click en el boton, aparecera otra frase con otro autor:
 
-![image](https://user-images.githubusercontent.com/107152796/213924685-76e2f726-5feb-4461-8dbb-d2678dde6e59.png)
+![image](https://user-images.githubusercontent.com/107152796/214330515-15381570-cd17-417f-97e4-17302beed316.png)
 
 Finalmente, al hacer click en el boton "Mostrar acertijos", aparecera uno de diez acertijos seleccionados de internet en la seccion correspondiente de la pagina:
 
-![image](https://user-images.githubusercontent.com/107152796/213924699-7fa0b810-bf86-4482-90ee-0572609adb34.png)
+![image](https://user-images.githubusercontent.com/107152796/214330600-727dd589-08a9-4566-a554-ac3623a2a45f.png)
 
 Solamente aparecera el acertijo sin la respuesta. Si se quiere ver la respuesta al acertijo, hay que hacer click en el texto que dice "Respuesta del acertijo":
 
-![image](https://user-images.githubusercontent.com/107152796/213924709-174caf23-a2fa-41e4-8cfe-0080222019ef.png)
+![image](https://user-images.githubusercontent.com/107152796/214330718-20dfa6ce-5785-4376-b88e-28b4c6ee2e04.png)
 
 Si se hace click nuevamente en el boton "Mostrar acertijos", aparecera otro acertijo:
 
-![image](https://user-images.githubusercontent.com/107152796/213924719-a9a882c2-8849-47c2-b05d-7d5a91bcb133.png)
+![image](https://user-images.githubusercontent.com/107152796/214330788-eb666c7b-b6b6-43fc-a7ad-936024eaf21e.png)
 
 Y si se hace click en el texto de "Respuesta del acertijo", se dara la respuesta a ese acertijo en particular:
 
-![image](https://user-images.githubusercontent.com/107152796/213924735-ca8ad8c7-64b4-4781-a8b4-b18320755076.png)
+![image](https://user-images.githubusercontent.com/107152796/214330830-327d0abe-4914-4946-b4a1-2f87baad5701.png)
 
