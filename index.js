@@ -140,10 +140,10 @@ function mostrarFrase(){
     frase.classList.add("parrafo");
     //Esta funcion devolvera un objeto
     let objetoFrase = generarFraseAleatoria();
-    //Se obtienen los valores del objeto. Nos dara el valor de la frase y el valor del autor
-    let fraseConAutor = Object.values(objetoFrase);
     //Se obtiene la frase y el autor
-    frase.innerHTML = "'" + fraseConAutor[0] + "' <br> -" + fraseConAutor[1] + ".";
+
+    //Al ser un objeto, se pueden acceder a sus propiedades, o keys para acceder a los values
+    frase.innerHTML = "'" + objetoFrase.frase + "' <br> -" + objetoFrase.autor + ".";
     bloqueFrases.appendChild(frase);
 }
 
@@ -176,11 +176,10 @@ function mostrarAcertijo(){
     let acertijo = document.createElement("p");
     acertijo.classList.add("parrafo");
     let objetoAcertijoYRespuesta = generarAcertijo();
-    let acertijoCompleto = Object.values(objetoAcertijoYRespuesta);
     //Solamente se muestra la frase
-    acertijo.innerHTML = acertijoCompleto[0] + "<br>";
+    acertijo.innerHTML = objetoAcertijoYRespuesta.acertijo + "<br>";
     //Se guarda la respuesta en una variable global
-    respuestaAcertijo = acertijoCompleto[1];
+    respuestaAcertijo = objetoAcertijoYRespuesta.respuesta;
     bloqueAcertijos.appendChild(acertijo);
 }
 
