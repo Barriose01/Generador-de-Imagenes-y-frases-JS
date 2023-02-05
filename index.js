@@ -83,16 +83,14 @@ function mostrarImagen(){
     let imagen = document.createElement("img");
     //Se le dan atribytos
     imagen.src = generarImagenAleatoria();
-    imagen.height = "350";
-    imagen.width = "400";
     imagen.alt = "Imagen aleatoria";
     //Se agrega la imagen al bloque
     bloqueImagenes.appendChild(imagen);
 }
 
 function generarChisteAleatorio(){
-    let arrayChistes = ["-¿Qué le dice un molusco a otro molusco?<br>-¿Como luzco?",
-"-¿Qué le dice la foca a su madre?<br> -I love you, mother foca.",
+    let arrayChistes = ["—Oye, ¿sabes cómo se llaman los habitantes de Barcelona?<br> —Hombre, pues todos no.",
+"—¿Dónde vas, Antonio?<br> —A por estiércol para las fresas.<br> —¿Pero por qué no te las comes con nata, como todo el mundo?",
 "—Doctor, tengo todo el cuerpo cubierto de pelo. ¿Qué padezco?<br> —Padece uzté un ozito.",
 "—Hombre, Juan, cómo has cambiado.<br>—Yo no soy Juan.<br>—Más a mi favor.",
 "–Gol.<br>–¿De quién?<br> –Di María.<br> –María, pero quién ha marcado el gol.",
