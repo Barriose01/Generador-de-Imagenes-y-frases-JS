@@ -141,7 +141,7 @@ function mostrarFrase(){
     //Se obtiene la frase y el autor
 
     //Al ser un objeto, se pueden acceder a sus propiedades, o keys para acceder a los values
-    frase.innerHTML = "'" + objetoFrase.frase + "' <br> -" + objetoFrase.autor + ".";
+    frase.innerHTML = "'" + objetoFrase.frase + "' <br><br> -" + objetoFrase.autor + ".";
     bloqueFrases.appendChild(frase);
 }
 
