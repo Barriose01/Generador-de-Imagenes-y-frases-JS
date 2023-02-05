@@ -1,3 +1,10 @@
+html {
+    box-sizing: border-box;
+  }
+  *, *:before, *:after {
+    box-sizing: inherit;
+  }
+
 body{
     background-color: #092654;
     color: white;
@@ -5,21 +12,20 @@ body{
 }
 main{
     float: left;
-    width: 45%;
+    width: 50%;
 
 }
 
-#lineaVertical{
-    border-left: 6px solid white;
-    height: 500px;
-    float: left;
-    padding: 15px;
+article{
+    width: 100%;
 }
 
 aside{
     float: right;
-    width: 45%;
-    padding-left: 10px;
+    width: 50%;
+    height: 100vh;
+    padding-left: 6%;
+    border-left: 8px solid white;
     
 }
 
@@ -31,7 +37,7 @@ aside button{
     padding: 5px;
     font-size: 20px;
     cursor: pointer;
-    width: 220px;
+    width: 60%;
 }
 aside a{
     padding: 5px;
@@ -52,4 +58,9 @@ footer{
     font-size: 22px;
     color: silver;
     margin-left: 10px;
+}
+
+img{
+    width: 80%;
+    height: 400px;
 }
